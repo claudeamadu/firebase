@@ -90,3 +90,6 @@ $accessToken = $fcm->getAccessToken();
 $response = $fcm->sendFCMNotificationToTopic($accessToken, $topics, $title, $body);
 echo $response;
 ```
+
+## Sample Query
+<br/><img src="./image_2023-12-17_024626137.png" width="100%"></img>
