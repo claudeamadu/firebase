@@ -1,4 +1,17 @@
 <?php
+/**
+ * Paystack PHP Library
+ *
+ * This PHP library provides an interface to interact with the Paystack API,
+ * enabling developers to handle payment transactions, transfers, verification,
+ * and other financial operations easily.
+ *
+ * @version 1.0
+ * @license GNU
+ * @author Claude Amadu
+ * @link https://github.com/claudeamadu/firebase
+ * @link https://firebase.google.com/docs
+ */
 
 class FirebaseAuth
 {
