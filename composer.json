@@ -1,0 +1,13 @@
+{
+    "name": "claude/firebase",
+    "description": "Simplified Firebase Classes for your PHP projects Straight forward codes to easily use in your projects without hassle",
+    "authors": [
+        {
+            "name": "Claude Amadu",
+            "email": "obiriclaude@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
