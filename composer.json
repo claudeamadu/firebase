@@ -1,5 +1,5 @@
 {
-    "name": "claudeamadu/firebase",
+    "name": "claude/firebase",
     "description": "Simplified Firebase Classes for your PHP projects Straight forward codes to easily use in your projects without hassle",
     "authors": [
         {
@@ -9,5 +9,19 @@
     ],
     "require": {
         "php": ">=8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/FirebaseAuth.php",
+            "src/FirebaseUser.php",
+            "src/FirebaseFirestore.php",
+            "src/FirestoreDB.php",
+            "src/Query.php",
+            "src/FieldFilter.php",
+            "src/CompositeFilter.php",
+            "src/UnaryFilter.php",
+            "src/PathBuilder.php",
+            "src/FirebaseCloudMessaging.php"
+        ]
     }
 }
