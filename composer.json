@@ -12,6 +12,7 @@
     },
     "autoload": {
         "files": [
+            "src/helpers.php",
             "src/FirebaseAuth.php",
             "src/FirebaseUser.php",
             "src/FirebaseFirestore.php",
