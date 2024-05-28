@@ -1,5 +1,5 @@
 # firebase
-Simplified Firebase Classes for your projects(PHP & JS)
+Simplified Firebase Classes for your PHP projects
 Straight forward codes to easily use in your projects without hassle
 
 ### Installation
